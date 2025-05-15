@@ -24,9 +24,3 @@ The chart visualizes closing price trends over time using **Chart.js** via `reac
 5. **Start the Development Server**  
    ```bash
    npm start
-
-   
-
-
-
-
