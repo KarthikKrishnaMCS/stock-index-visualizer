@@ -5,14 +5,28 @@ This is a simple, responsive React web application that reads a CSV file (`dump.
 The chart visualizes closing price trends over time using **Chart.js** via `react-chartjs-2`.
 
 
-##  Features
 
--  Parses and loads CSV data using `papaparse`
--  Sidebar listing all available companies
--  Dynamic chart updates on company selection
--  Responsive layout using Bootstrap
--  Chart rendering via `Chart.js`
+## Installation
+
+1. **Clone the Repository:**  
+   ```bash
+   git clone https://github.com/KarthikKrishnaMCS/stock-index-visualizer.git
+   cd stock-index-visualizer
+2. **Install Dependencies:**  
+   ```bash
+   npm install
+3. **Install Chart.js, react-chartjs-2 and bootstrap**  
+   ```bash
+   npm install chart.js react-chartjs-2 bootstrap
+4. **Install papaparse (for CSV parsing)**  
+   ```bash
+   npm install papaparse
+5. **Start the Development Server**  
+   ```bash
+   npm start
+
+   
 
 
-## 📁 Project Structure
+
 
