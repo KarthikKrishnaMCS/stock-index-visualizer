@@ -4,7 +4,6 @@ This is a simple, responsive React web application that reads a CSV file (`dump.
 
 The chart visualizes closing price trends over time using **Chart.js** via `react-chartjs-2`.
 
----
 
 ##  Features
 
@@ -14,7 +13,6 @@ The chart visualizes closing price trends over time using **Chart.js** via `reac
 -  Responsive layout using Bootstrap
 -  Chart rendering via `Chart.js`
 
----
 
 ## 📁 Project Structure
 
